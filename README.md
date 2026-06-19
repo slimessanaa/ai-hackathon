@@ -6,11 +6,8 @@ Reached the semifinals.
 
 ## Main files
 
-- `agent_v7.py` - latest agent version
 - `agent.py` - submission-style agent entrypoint
-- `arena.py`, `bestof3_arena.py`, `varied_arena.py` - local test helpers
-- `README_AGENT.md` - quick local usage notes
-- `README_STRATEGY_TESTING.md` - strategy and testing notes
+- `.gitignore` - keeps local environments, caches, and build artifacts out of Git
 
 ## Idea
 
