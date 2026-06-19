@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local and downloaded sparring material
+archive_old_agents/
+external_test_agents/
+
+# Submission/build artifacts
+*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
